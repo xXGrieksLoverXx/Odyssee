@@ -1,0 +1,116 @@
+῾Ο δ' ἐργετο διος ᾽Οδυσσευσ,
+
+    ῾Ο: Hij (m ev nom)
+    δ': en
+    ἐγρετο: hij werd wakker (them. aor. med. 3 ev)
+    διος: goddelijk (m ev nom)
+    ᾽Οδυσσευσ: Odysseus (nom)
+
+"En hij, de goddelijke Odysseus, werd wakker,"
+-----
+ἐζομενος δ' ὁρμαινε κατα φρενα και κατα θυμον•
+
+    ἐζομενος (van ἱζομαι): nadat hij overeind kwam (them. aor. med. ptc. m ev nom)
+    δ': en
+    ὁρμαινε: hij dacht na (them. ipf. 3 ev)
+    κατα + acc: over
+    φρενα: geest (v ev acc)
+    και: en
+    θυμον: hart (m ev acc)
+
+"en nadat hij overeind was gekomen dacht hij na in zijn geest en in zijn hart: "
+-----
+"Ω μοι ἐγω, τεων αὐτε βροτων ἐς γαιαν ἱκανω;
+
+    Ω μοι ἐγω: O, ikzelf / Och, arme ik
+    τεων (τινων): welke (m mv gen) [Bij βροτων]
+    αὐτε: weer
+    βροτων: van stervelingen (m mv gen)
+    ἐς: naar
+    γαιαν: het land (v ev acc)
+    ἱκανω: ik ben gekomen (them. prs. 1 ev)
+
+" "Och, arme ik, naar het land van welke stervelingen ben ik nu weer gekomen?"
+-----
+᾽Η ῥ' οἱ γ' ὑβρισται τε και ἀγριοι οὐδε δικαιοι,
+
+    ᾽Η ... ἠε: Of ... of
+    οἱ: Zij (m mv nom)
+    ὑβρισται: overmoedig (v mv nom)
+    και: en
+    ἀγριοι: wild (m mv nom)
+    οὐδε: en niet
+    δικαιοι: rechtvaardig (m mv nom)
+
+"Of zij zijn [Ellips] overmoedig en wild en niet rechtvaardig,"
+-----
+ἠε φιλοξεινοι και σφιν νοος ἐστι θεουδης;
+
+    ἠε: of
+    φιλοξεινοι: gastvrij (m mv nom)
+    και: en
+    σφιν: zij (ev dat?)
+    νοος: geest (m ev nom)
+    ἐστι: zijn [bij σφιν]
+    θεουδης: godvrezend (ev nom)
+
+"of zijn zij gastvrij en godvrezend van geest?"
+-----
+᾽Ως τε με κουραων ἀμφηλυθε θηλυς αὐτη,
+
+    ᾽Ως: Zoals
+    με: mij (m ev acc)
+    κουραων: van meisjes (v mv gen)
+    ἀμφηλυθε: het dringde door tot (them. aor. med. 3 ev)
+    θηλυς: vrouwelijke (v? ev nom)
+    αὐτη: het gegil (v ev nom)
+
+"Zoals het vrouwelijke gegil van meisjes doordrong tot mij,"
+-----
+νυμφαων, αἱ ἐχουσ' ὀρεων αἰπεινα καρηνα
+
+    νυμφαων: van nimfen (v mv gen)
+    αἱ: die (v mv nom)
+    ἐχουσ': bezittend (them. prs. act. ptc. v ev nom) [Hier ook te vertalen als "bewonend"]
+    ὀρεων: van bergen (m mv gen)
+    αἰπεινα: hoge (o mv acc)
+    καρηνα: toppen (o mv acc)
+
+"van nimfen, die de hoge bergen bewonen,"
+-----
+και πηγας ποταμων και πισεα ποιηεντα.
+
+    και: en
+    πηγας: de bronnen (v mv acc)
+    ποταμων: van de rivier (m mv gen)
+    και: en
+    πισεα: de weides (o mv acc)
+    ποιηεντα: grasrijke (o mv acc)
+
+"en de bronnen van de rivier en de grasrijke weides."
+["ὀρεων αἰπεινα (...) πηγας ποταμων" is een chiasme]
+-----
+᾽Η νυ που ἀνθρωπων εἰμι σχεδον αὐδηεντων;
+
+    ᾽Η: Of
+    νυ (Hom.): [Nadruk]
+    που: ergens
+    ᾽Η νυ που: Of ergens / of dan misschien
+    ἀνθρωπων: van mensen (m mv gen)
+    εἰμι: ik ben (them. prs. act. 1 ev)
+    σχεδον + gen: bij
+    αὐδηεντων: sprekende (m mv gen)
+
+"Of ben ik dan misschien bij sprekende mensen?"
+-----
+Αλλ' ἀγ', ἐγων αὐτος πειρησομαι ἠδε ἰδωμαι.
+
+    Αλλ': Maar
+    ἀγ' (=ἀγε, van ἀγω): vooruit (them. prs. act. imper. ev)
+    ἐγων (Hom. wb 624.1A): ik (ev nom)
+    αὐτος: zelf (m ev nom)
+    πειρησομαι: laat ik onderzoek instellen (them. prs. med. con. 1 ev)
+    ἠδε: en
+    ἰδωμαι (=ἰδω): laat ik kijken (them. prs. med. con. 1 ev)
+
+"Maar vooruit, laat ik zelf onderzoek instellen en kijken."

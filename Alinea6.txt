@@ -1,0 +1,107 @@
+"Γουνουμαι σε, ἀνασσα• θεος νυ τις ἠ βροτος ἐσσι;
+
+Γουνουμαι: ik smeek (prs. med. 1 ev)
+σε: jij / u (acc) [Hier u, Odysseus doet beleefd]
+ἀνασσα: meesteres (v ev acc)
+θεος: godheid (m ev nom) / godin (v ev nom)
+νυ: dan [Hoeft in principe niet vertaald te worden, geeft nadruk]
+τις: een of andere (m/v ev nom)
+ἠ: of
+βροτος: een sterveling (m ev nom)
+ἐσσι (Hom.): u bent (prs. act. 2 ev)
+
+"Ik smeek u, meesteres: bent u dan een of andere godin of een sterveling?"
+-----
+Εἰ μεν τις θεος ἐσσι, τοι οὐρανον εὐρυν ἐχουσιν,
+
+Εἰ: indien
+μεν (... δε): Weliswaar (... maar) [Hoeft niet vertaald]
+τις: een of andere (m/v ev nom)
+θεος: godheid (m ev nom)
+ἐσσι: u bent
+τοι: die (m mv nom) [Slaat terug op de goden]
+οὐρανον: de hemel (m ev acc)
+εὐρυν: brede (m ev acc)
+ἐχουσιν: zij bezitten (prs. act. 3 mv)
+
+"Indien u een of andere godheid bent, die de brede hemel bezitten,"
+-----
+᾽Αρτεμιδι σε ἐγω γε, Διος κουρῃ μεγαλοιο,
+
+᾽Αρτεμιδι: Artemis (dat)
+σε: u (acc)
+ἐγω: ik (nom)
+γε: [Nadruk op vorige woord]
+Διος: van Zeus (gen)
+κουρῃ: dochter (v ev dat)
+μεγαλοιο: sterke (m ev gen)
+
+"acht ik u gelijk aan [εἰσκω, volgende zin] Artemis, de dochter van de sterke Zeus,"
+-----
+εἰδος τε μεγεθος τε φυην τ' ἀγχιστα εἰσκω•
+
+εἰδος: uiterlijk (o ev acc) [acc van betrekking]
+τε, τ': en [Hoeft niet per sé vertaald]
+μεγεθος: grootte (o ev acc) [acc van betrekking]
+φυην: gestalte (v ev acc) [acc van betrekking]
+ἀγχιστα: het meest nabij
+εἰσκω + dat: ik acht ... gelijk aan ... (prs. act. 1 ev)
+
+"qua uiterlijk, grootte en gestalte het meest nabij: "
+-----
+εἰ δε τις ἐσσι βροτων, τοι ἐπι χθονι αιεταουσι,
+
+εἰ: indien
+δε: [Nog bij μεν]
+τις: iemand (m/v ev nom)
+ἐσσι: u bent
+βροτων: van de stervelingen (m mv gen)
+τοι: die (m mv nom)
+ἐπι + dat: op
+χθονι: de aarde (v ev dat)
+αιεταουσι: zij wonen (prs. act. 3 mv)
+
+"indien u iemand van de stervelingen bent, die op de aarde wonen,"
+-----
+τρισμακαρες μεν σοι γε πατηρ και ποτνια μητηρ,
+
+τρισμακαρες: drievoudig gelukkig
+σοι: uw (dat) [Dativus van bezit]
+πατηρ: vader (m ev nom)
+και: en
+ποτνια: eerbiedwaardige (v ev nom)
+μητηρ: moeder (v ev nom)
+
+"zijn [ellips] uw vader en eerbiedwaardige moeder drievoudig gelukkig,"
+
+τρισμακαρες δε κασιγνητοι• μαλα που σφισι θυμος
+
+τρισμακαρες: drievoudig gelukkig
+δε: en
+κασιγνητοι: broers (m mv nom)
+μαλα: zeer
+που: dunkt me / vast wel
+σφισι: hun (mv dat) [Dativus van bezit]
+θυμος: geest (m ev nom)
+
+"en uw broers drievoudig gelukkig: ... [Zie vertaling volgende zin]"
+-----
+αἰεν εὐφροσυνῃσιν ἰαινεται εἱνεκα σειο,
+
+αἰεν: altijd
+εὐφροσυνῃσιν: vreugde (v mv dat)
+ἰαινεται: het wordt verblijd (prs. pass. 3 ev)
+εἱνεκα + gen: wegens
+σειο: jou (gen)
+
+"en hun geest, dunkt me, wordt altijd zeer verblijd door vreugde wegens jou,"
+-----
+λευσσοντων τοιονδε θαλος χορον εἰσοιχνευσαν.
+
+λευσσοντων: wanneer ze zien (prs. act. ptc. m/o mv gen)
+τοιονδε, WB594.2: zo'n (o ev acc)
+θαλος: kind (o ev acc)
+χορον: de dansplaats (m ev acc)
+εἰσοιχνευσαν: betreden (prs. act. ptc. v ev acc) [Anders vertaald omdat het bij de AcP hoort]
+
+"wanneer ze zo'n kind de dansplaats zien betreden."

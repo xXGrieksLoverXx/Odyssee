@@ -1,0 +1,118 @@
+῾Ως εἰπων θαμνων ὑπεδυσετο διος ᾽Οδυσσευσ,
+
+    ῾Ως: Zo
+    εἰπων: nadat hij had gezegd (them. aor. act. ptc. m ev nom)
+    θαμνων: de struiken (m mv gen)
+    ὑπεδυσετο + gen: hij dook op van onder (sigm.aor. med. 3 ev)
+    διος: goddelijke (m ev nom) [Epitheton ornans bij "᾽Οδυσσευσ"]
+    ᾽Οδυσσευσ: Odysseus
+
+"Zo, nadat hij dat had gezegd, dook de goddelijke Odysseus op vanonder de struiken,"
+-----
+ἐκ πυκινης δ' ὑλης πτορθον κλασε χειρι παχειῃ
+
+    ἐκ + gen: uit
+    πυκινης: dichtbegroeid (v ev gen)
+    δ': en
+    ὑλης: struikgewas (v ev gen)
+    πτορθον: tak (m ev acc)
+    κλασε: hij brak af (sigm.aor. act. 3 ev)
+    χειρι: met de hand (v ev dat)
+    παχειῃ: stevige (v ev dat)
+
+"en brak hij met stevige hand een tak met bladeren [φυλλων, volgende zin] uit het dichtbegroeide struikgewas"
+-----
+φυλλων, ὡς ῥυσαιτο περι χροι μηδεα φωτος.
+
+    φυλλων: bladeren (o mv gen)
+    ὡς: op die manier
+    ῥυσαιτο: opdat hij bedekte (them. aor. med. opt. 3 ev)
+    περι χροι: op zijn lichaam
+    μηδεα: zijn schaamdelen
+    φωτος: van het licht (m ev gen)
+
+"opdat hij op die manier de schaamdelen op zijn lichaam beschermde van het licht."
+-----
+Βη δ' ἰμεν ὡς τε λεων ὀρεσιτροφος, ἀλκι πεποιθως,
+
+    Βη: hij ging (stam.aor. act. 3 ev)
+    δ': en
+    ἰμεν (Hom.): gaan (prs. act. inf.)
+    Βη δ' ἰμεν: En hij ging om te gaan / Hij ging op weg
+    ὡς: zoals [Begin van een Homerische vergelijking]
+    λεων: een leeuw (m ev nom)
+    ὀρεσιτροφος: in de bergen opgegroeid (m ev nom)
+    ἀλκι: kracht (v ev dat)
+    πεποιθως + dat: vertrouwend op (them. perf.intr. act. ptc. m ev nom)
+
+"En hij ging op weg, zoals een in de bergen opgegroeide leeuw, vertrouwend op zijn kracht,"
+-----
+ὁς  τ' εἰσ' ὑομενος και ἀημενοσ, ἐν δε οἱ ὀσσε
+
+    ὁς: die (m ev nom)
+    εἰσ': hij gaat (prs. act. 3 ev)
+    ὑομενος και ἀημενοσ: verregend en verwaaid
+    ἐν + dat: in
+    δε: en
+    οἱ (=αὐτῳ): hem (m ev dat)
+    ὀσσε (dualis): beide ogen (nom)
+
+"die gaat, verregend en verwaaid, en in hem gloeien [δαιεται, volgende zin, meervoud omdat dualis] beide ogen: "
+-----
+δαιεται• αὐταρ ὁ βουσι μετερχεται ἠ οἰεσσιν
+
+    δαιεται: het gloeit (them. prs. med. 3 ev)
+    αὐταρ: en
+    ὁ: hij (m ev nom)
+    βουσι: koeien (mv dat)
+    μετερχεται + dat: hij stort zich op (them. prs. med. 3 ev)
+    ἠ ... ἠε: of
+    οἰεσσιν: schapen (gekke mv dat)
+
+"en hij stort zich op koeien of schapen"
+-----
+ἠε μετ' ἀγροτερας ἐλαφους• κελεται δε ἑ γαστηρ
+
+    μετ' + acc (vul aan ἐρχεται): hij gaat achterna (them. prs. med. 3 ev)
+    ἀγροτερας: wild (v mv acc)
+    ἐλαφους: herten (v mv acc)
+    κελεται: hij beveelt (them. prs. med. 3 ev)
+    δε: en
+    ἑ: hem (ev acc)
+    γαστηρ: zijn maag (v ev nom)
+
+"of hij gaat wilde herten achterna: en zijn maag beveelt hem... "
+-----
+μηλων πειρησοντα και ἐς πυκινον δομον ἐλθειν•
+
+    μηλων: geiten (o mv gen)
+πειρησοντα + gen: (wtf)
+    και: en
+    ἐς + acc: naar
+    πυκινον: stevig gebouwde (m ev acc)
+    δομον: stal (m ev acc)
+    ἐλθειν: te gaan (aor. inf.)
+
+"... een aanval te wagen op de geiten en naar de stevig gebouwde stal te gaan: "
+-----
+ὡς ᾽Οδυσευς κουρῃσιν εὐπλοκαμοισιν ἐμελλε
+
+    ὡς: zo [Vervolg Homerische vergelijking]
+    ᾽Οδυσευς: Odysseus
+    κουρῃσιν: de meisjes (v mv dat)
+    εὐπλοκαμοισιν: met mooie vlechten (v mv dat)
+    ἐμελλε: hij stond op het punt (them. ipf. act. 3 ev)
+
+"zo stond Odysseus op het punt in contact te komen [μιξεσθαι, volgende zin] met de meisjes met de mooie vlechten,"
+-----
+μιξεσθαι, γυμνος περ ἐων• χρειω γαρ ἱκανε.
+
+    μιξεσθαι: in contact komen (them. fut. med. inf.)
+    γυμνος: naakt (m ev nom)
+    περ + ptc: hoewel
+    ἐων: zijnde (prs. act. ptc. m ev nom)
+    χρειω: de noodzaak (v ev nom)
+    γαρ: want
+    ἱκανε: had bereikt (ipf. act. 3 ev)
+
+"hoewel hij naakt was: want de noodzaak had bereikt."

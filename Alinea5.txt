@@ -1,0 +1,138 @@
+Σμερδαλεος δ' αὐτῃσι φανη κεκακωμενος ἁλμῃ,
+
+    Σμερδαλεος: schrikwekkend (m ev nom)
+    δ': en
+    αὐτῃσι: aan hen (v mv dat)
+    φανη (van φαινομαι): hij toonde zich (stam.aor. 3 ev)
+    κεκακωμενος: terwijl hij gehavend was (perf. med. ptc. m ev nom)
+    ἁλμῃ: door zeewater (v ev dat)
+
+"En hij toonde zich aan hen, schrikwekkend, gehavend door het zeewater,"
+-----
+τρεσσαν δ' ἀλλυδις ἀλλη ἐπ ᾐονας προυχουσας•
+
+    τρεσσαν: zij stoven uiteen (sigm.aor act. 3 mv)
+    δ': en
+    ἀλλυδις: ergens anders heen
+    ἀλλη: de ander (v ev nom)
+    ἀλλυδις ἀλλη: alle kanten op ["de ander ergens anders heen"]
+    ἐπ + acc: naar
+    ᾐονας (volgens παις): de landtongen (v mv acc)
+    προυχουσας: vooruitstekende (them. prs. act. ptc. v mv acc)
+
+"en zij stoven uiteen, alle kanten op naar de vooruitstekende landtongen: "
+-----
+οἰη δ' ᾽Αλκινοου θυγατηρ μενε• τῃ γαρ ᾽Αθηνη
+
+    οἰη: alleen (v ev nom)
+    δ': en
+    ᾽Αλκινοου: van Alkinoös (m ev gen)
+    θυγατηρ: de dochter (v ev nom)
+    μενε: zij bleef staan (them. ipf. act. 3 ev)
+    τῃ: voor haar (v ev dat)
+    γαρ: want
+    ᾽Αθηνη: Athena (nom)
+
+"alleen de dochter van Alkinoös [Nausikaä] bleef staan: want Athena plaatste [θηκε, volgende zin] voor haar..."
+-----
+θαρσος ἐνι φρεσι θηκε και ἐκ δεος εἱλετο γυιων.
+
+    θαρσος: moed (o ev acc)
+    ἐνι + dat: in
+    φρεσι: haar geest (v mv dat, vertalen als ev)
+    θηκε (van τιθημι, wb 616): zij plaatste (aor. act. 3 ev)
+    και: en
+    ἐκ + gen: uit
+    δεος: de angst (o ev acc)
+    εἱλετο (van αἱρεομαι): zij nam weg (them. aor. med. 3 ev)
+    γυιων: haar ledematen (o mv gen)
+
+"...moed in haar geest en zij nam de angst weg uit haar ledematen."
+-----
+Στη δ' ἀντα σχομενη• ὁ δε μερμηριξεν ᾽Οδυσσευς,
+
+    Στη (van ἱσταμαι): zij bleef staan
+    δ': en
+    ἀντα: tegenover (hem)
+    σχομενη: nadat zij zichzelf beheerste (them. aor. med. ptc. v ev nom)
+    ὁ: hij (m ev nom)
+    δε: en
+    μερμηριξεν: hij overwoog (them. aor. act. 3 ev)
+    ᾽Οδυσσευς: Odysseus
+
+"En zij bleef, nadat ze zichzelf beheerste, tegenover hem staan: en hij, Odysseus, overwoog,"
+-----
+ἠ γουνων λισσοιτο λαβων εὐωπιδα κουρην,
+
+    ἠ: of
+    γουνων: de knieën (o mv gen)
+    λισσοιτο: (of) hij moest smeken (them. prs. med. opt. 3 ev) [Optativus geeft hier een mogelijkheid aan]
+    λαβων + gen: nadat hij vastpakte (them. aor. act. ptc. m ev nom)
+    εὐωπιδα: knap (v ev acc)
+    κουρην: het meisje (v ev acc)
+
+"of hij het knappe meisje moest smeken nadat hij haar knieën vastpakte,"
+-----
+ἠ αὐτως ἐπεεσσιν ἀποσταδα μειλιχιοισι
+
+    ἠ: of
+    αὐτως: zonder meer
+    ἐπεεσσιν: met woorden (o mv dat)
+    ἀποσταδα: op een afstand
+    μειλιχιοισι: vriendelijke (o mv dat)
+
+"of (dat) hij [Volgende zin] zonder meer op een afstand met vriendelijke woorden..."
+-----
+λισσοιτ', εἰ δειξειε πολιν και εἱματα δοιη.
+
+    λισσοιτ': (of) hij moest smeken (them. prs. med. opt. 3 ev) [Optativus geeft hier een mogelijkheid aan]
+    εἰ + opt: in de hoop dat
+    δειξειε: zij zou tonen (sigm.aor. act. opt. 3 ev) [Optativus bij εἰ, mogelijkheid]
+    πολιν: de stad (v ev acc)
+    και: en
+    εἱματα: kleren (o mv acc)
+    δοιη (van διδωμι, wb 618): zij zou geven (aor. act. opt. 3 ev)
+
+"...moest smeken, in de hoop dat zij de stad zou tonen en (hem) kleren zou geven."
+-----
+Ως ἀρα οἱ φρονεοντι δοασσατο κερδιον εἰναι,
+
+    Ως: zo
+    ἀρα: [Niet vertalen]
+    οἱ (= αὐτῳ, Hom. wb 625D): hem (m ev dat)
+    φρονεοντι: terwijl hij nadacht (them. prs. act. ptc. m ev dat)
+    δοασσατο + dat + inf (Hom.): het scheen
+    κερδιον: beter
+    εἰναι: te zijn (prs. act. inf.)
+
+"Zo scheen het hem, terwijl hij nadacht, beter te zijn,"
+-----
+λισσεσθαι ἐπεεσσιν ἀποσταδα μειλιχιοισι,
+
+    λισσεσθαι: te smeken (them. prs. med. inf.)
+    ἐπεεσσιν ἀποσταδα μειλιχιοισι: op een afstand met vriendelijke woorden [Herhaling]
+
+"op een afstand met vriendelijke woorden te smeken,"
+-----
+μη οἱ γουνα λαβοντι χολωσαιτο φρενα κουρη.
+
+    μη + opt: opdat niet
+    οἱ (= αὐτῳ, Hom. wb 625D): hem (m ev dat)
+    γουνα: haar knieën (o mv acc)
+    λαβοντι + gen: nadat hij had vastgepakt (them. aor. act. ptc. m ev dat)
+    χολωσαιτο + dat: zij zou boos worden (sigm.aor. med. opt. 3 ev)
+    φρενα: wat betreft haar geest / in haar geest (v ev acc, acc van betrekking)
+    κουρη: het meisje (v ev nom)
+
+"opdat het meisje niet boos zou worden op hem in haar geest nadat hij haar knieën had vastgepakt."
+-----
+Αὐτικα μειλιχιον και κερδαλεον φατο μυθον•
+
+    Αὐτικα: meteen
+    μειλιχιον: vriendelijk (m ev acc)
+    και: en
+    κερδαλεον: berekend (m ev acc)
+    φατο (van φημι): hij sprak (sigm?.aor. med. 3 ev)
+    μυθον: een verhaal (m ev acc)
+
+"Meteen sprak hij een vriendelijk en berekend verhaal: "

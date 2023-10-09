@@ -1,0 +1,89 @@
+᾽Αλλ' ὁτε δη ἀρ' ἐμελλε παλιν οἰκονδε νεεσθαι
+
+    ᾽Αλλ': maar
+    ὁτε: toen
+    δη: [Niet vertalen]
+    ἀρ': [Niet vertalen]
+    ἐμελλε + inf: zij stond op het punt (them. ipf. act. 3 ev)
+    παλιν: terug
+    οἰκονδε (Hom.): naar huis
+    νεεσθαι: gaan (them. prs. med. inf.)
+
+"Maar toen zij op het punt stond naar huis terug te keren"
+-----
+ζευξασ' ἡμιονους πτυξασα τε εἱματα καλα,
+
+    ζευξασ' (+ gen?): terwijl zij inspande (athem. prs. ptc. act. v ev nom)
+    ἡμιονους: de muilezelin (v ev gen)
+    πτυξασα: terwijl zij inspande (them. aor. ptc. act. v ev nom)
+    τε: [Episch τε, niet vertalen]
+    εἱματα: kleren (o mv acc)
+    καλα: schone (o mv acc)
+
+"terwijl zij de muilezelin inspande en nadat zij de schone kleren had opgevouwen,"
+-----
+ἐνθ' αὐτ' ἀλλ' ἐνοησε θεα γλαυκωπις ᾽Αθηνη
+
+    ἐνθ': toen
+    αὐτ': weer
+    ἀλλ (ἀλλο): iets anders (o ev acc)
+    ἐνοησε (van νοεω): bedacht (sigm.aor. act. 3 ev)
+    θεα: de godin (v ev nom)
+    γλαυκωπις: met de grijsblauwe ogen (v? ev nom) [Epitheton ornans bij ᾽Αθηνη]
+    ᾽Αθηνη: Athena (nom)
+
+"toen bedacht de godin Athena, met de grijsblauwe ogen, weer iets anders,"
+-----
+ὡς ᾽Οδυσευς ἐγροιτο, ἰδοι τ' εὐωπιδα κουρην,
+
+    ὡς: dat
+    ᾽Οδυσευς: Odysseus
+    ἐγροιτο: hij werd wakker (them. aor. med. opt. 3 ev) [Optativus in bijzin mag vertaald als indicativus]
+    ἰδοι (rare vorm van ὁραω): hij zag (them. aor. opt. aor 3 ev)
+    εὐωπιδα: knap (v ev acc)
+    κουρην: meisje (v ev acc)
+
+"dat Odysseus wakker werd, en het mooie meisje zag,"
+-----
+ἡ οἱ Φαιηκων ἀνδρων πολιν ἡγησαιτο.
+
+    ἡ: zij (v ev nom)
+    οἱ Φαιηκων: van de Phaeaken (m mv gen)
+    ἀνδρων: de mannen (m mv gen)
+    πολιν (van πολις, wb 588C): de stad (v ev acc)
+    ἡγησαιτο: zij bracht naar (sigm.aor. 3 ev)
+
+"en dat [dit is nog steeds Athena's fantasie] zij hem bracht naar de stad van de mannen van de Phaeaken."
+-----
+Σφαιραν ἐπειτ' ἐρριψε μετ' ἀμφιπολον βασιλεια•
+
+    Σφαιραν: de bal (v ev acc)
+    ἐπειτ': daarna
+    ἐρριψε (ε + ρ = ἐρρ): zij wierp (sigm.aor. 3 ev)
+    μετ' + acc (Hom.): naar
+    ἀμφιπολον: een dienares (v ev acc)
+    βασιλεια: de prinses (v ev nom)
+
+"Daarna wierp de prinses de bal naar een dienares: "
+-----
+ἀμφιπολου μεν ἁμαρτε, βαθειῃ δ' ἐμβαλε δινῃ
+
+    ἀμφιπολου: de dienares (v ev gen)
+    μεν ... δ': weliswaar ... maar [Meestal niet vertaald]
+    ἁμαρτε + gen: zij miste (them. aor. 3 ev)
+    βαθειῃ: diepe (v ev dat)
+    ἐμβαλε: zij gooide (them. aor. 3 ev)
+    σφαιραν: de bal (v ev acc)
+    δινῃ: draaikolk (v ev dat)
+
+"zij miste de dienares, en zij gooide de bal in een diepe draaikolk."
+-----
+Αἱ δ' ἐπι μακρον αὐσαν
+
+    Αἱ: zij (v mv nom)
+    δ': en
+    ἐπι: daarbij
+    μακρον: luid
+    αὐσαν (van αὐω): zij gilden (sigm.aor. 3 mv)
+
+"En zij gilden daarbij luid."
